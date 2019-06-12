@@ -1,0 +1,5 @@
+current directory: /Users/nurinizzatijafri/Desktop/sample_app/vendor/bundle/ruby/2.6.0/gems/childprocess-1.0.1/ext
+/Users/nurinizzatijafri/.rbenv/versions/2.6.3/bin/ruby mkrf_conf.rb
+
+current directory: /Users/nurinizzatijafri/Desktop/sample_app/vendor/bundle/ruby/2.6.0/gems/childprocess-1.0.1/ext
+/Users/nurinizzatijafri/.rbenv/versions/2.6.3/bin/ruby -rrubygems /Users/nurinizzatijafri/Desktop/sample_app/vendor/bundle/ruby/2.6.0/gems/rake-12.3.2/exe/rake RUBYARCHDIR\=/Users/nurinizzatijafri/Desktop/sample_app/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-18/2.6.0-static/childprocess-1.0.1 RUBYLIBDIR\=/Users/nurinizzatijafri/Desktop/sample_app/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-18/2.6.0-static/childprocess-1.0.1
